@@ -116,8 +116,8 @@
     "build": "vite build && vite build --config vite.config.preact.ts && vite build --config vite.config.vue.ts && vite build --config vite.config.solid-class.ts && tsup"
   },
   "devDependencies": {
-    "tsup": "^8.5.0",
+    "tsup": "^8.5.1",
     "tsup-preset-solid": "^2.2.0",
-    "vite-plugin-solid": "^2.11.8"
+    "vite-plugin-solid": "^2.11.10"
   }
 }
